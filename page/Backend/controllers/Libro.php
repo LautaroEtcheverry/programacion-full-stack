@@ -1,5 +1,5 @@
 <?php
-require "../models/Libro.php"; // Importar el modelo
+require "../models/libros.php"; // Importar el modelo
 
 $libroModel = new Libro($pdo); // Instancia del modelo
 
